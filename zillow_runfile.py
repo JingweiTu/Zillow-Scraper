@@ -17,6 +17,8 @@ Software requirements/info:
   
 '''
 from tkinter import *
+from PIL import ImageTk, Image
+import os
 import time
 import pandas as pd
 import zillow_functions as zl
@@ -42,6 +44,7 @@ def search(event):
 
   if len(list_of_zipcodes) == 0:
     print("No inputs given")
+    zipcodes_label['text'] = "No Inputs Given"
     return
 
   st = zl.zipcodes_list(st_items = list(list_of_zipcodes))
@@ -81,6 +84,7 @@ def search(event):
       if zl.enter_search_term(driver, search_term):
           print("Entering search term number " + str(k+1) +  ": '" + search_term + "' " + 
                 " out of " + str(num_search_terms))
+
       else:
           print("Search term " + str(k+1) +  ": '" + search_term + "' " + 
                 " failed, moving onto next search term\n***")
@@ -159,6 +163,8 @@ def search(event):
   dt = time.strftime("%Y-%m-%d") + "_" + time.strftime("%H%M%S")
   file_name = str(dt) + ".csv"
   df.to_csv(file_name, index = False)
+
+  zipcodes_label['text'] = "Scraping Complete. Review the following CSV file: \n" + str(dt) + ".csv"
   return 
 
 list_of_zipcodes = set()
@@ -167,6 +173,8 @@ def update_inputs(self):
   new_zip = entry.get()
   if 3 <= len(new_zip) <= 5:
     list_of_zipcodes.add(new_zip)
+  else:
+    return 
   output = "Search the following zip codes: "
   for i in list_of_zipcodes:
     output += i + ", "
@@ -175,11 +183,19 @@ def update_inputs(self):
 
 # GUI Stuff
 root = Tk()
+root.geometry('{}x{}'.format(400, 600))
 
 root.title('Zillow Scraper')
 
-zipcodes_label = Label(root, text="Search the following zip codes: ", bg="white", fg="black")
-zipcodes_label.pack(side=TOP,padx=10,pady=50)
+titleLabel = Label(root, text="ZILLOW SCRAPER", bg="white", fg="black", font = "Verdana 16 bold")
+titleLabel.pack()
+
+img = ImageTk.PhotoImage(Image.open("house.jpg"))
+panel = Label(root, image = img)
+panel.pack(pady=(10,0))
+
+zipcodes_label = Label(root, text="Add a Zipcode to Begin!", bg="white", fg="black", width=100, height=10, borderwidth=2, relief="groove")
+zipcodes_label.pack(side=TOP,padx=10,pady=10)
 
 text1 = Label(root, text="Add a Zipcode to Search: ", bg="white", fg="black")
 text1.pack()
@@ -189,7 +205,7 @@ entry.pack(side=TOP,padx=10,pady=10)
 
 add_zipcode_button = Button(root, text="Add Zipcode")
 add_zipcode_button.bind("<Button-1>", update_inputs)
-add_zipcode_button.pack(padx=10,pady=50)
+add_zipcode_button.pack(padx=10,pady=(0,50))
 
 begin_button = Button(root, text="Find Properties")
 begin_button.bind("<Button-1>", search)
