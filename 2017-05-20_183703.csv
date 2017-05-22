@@ -1,0 +1,531 @@
+address,city,state,zip,price,sqft,bedrooms,bathrooms,days_on_zillow,sale_type,url
+5237 Springdale Ave,Pleasanton,CA,94588,779000,1884.0,4.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/5237-Springdale-Ave-Pleasanton-CA-94588/25067669_zpid/
+3872 Cheshire Ct,Pleasanton,CA,94588,799000,2150.0,4.0,3.0,2,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3872-Cheshire-Ct-Pleasanton-CA-94588/25075126_zpid/
+7223 Valley View Ct,Pleasanton,CA,94588,799000,2119.0,3.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/7223-Valley-View-Ct-Pleasanton-CA-94588/25067767_zpid/
+19 Deer Oaks Dr,Pleasanton,CA,94588,2240000,2574.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/19-Deer-Oaks-Dr-Pleasanton-CA-94588/25081913_zpid/
+4354 Addison Way,Pleasanton,CA,94588,928000,1603.0,4.0,2.0,2,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4354-Addison-Way-Pleasanton-CA-94588/25067998_zpid/
+6498 Alvord Way,Pleasanton,CA,94588,950000,1831.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6498-Alvord-Way-Pleasanton-CA-94588/25068163_zpid/
+3934 Kern Ct,Pleasanton,CA,94588,950000,1831.0,4.0,2.0,2,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3934-Kern-Ct-Pleasanton-CA-94588/25068638_zpid/
+3611 Portsmouth Ct,Pleasanton,CA,94588,1038500,1940.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3611-Portsmouth-Ct-Pleasanton-CA-94588/25075277_zpid/
+1557 Maple Leaf Dr,Pleasanton,CA,94588,1489000,2788.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1557-Maple-Leaf-Dr-Pleasanton-CA-94588/25085253_zpid/
+7467 Alder Ct,Pleasanton,CA,94588,1198000,2444.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7467-Alder-Ct-Pleasanton-CA-94588/25066966_zpid/
+5351 Springdale Ave,Pleasanton,CA,94588,778500,1917.0,4.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/5351-Springdale-Ave-Pleasanton-CA-94588/25067892_zpid/
+5850 W Las Positas Blvd # 259DBK,Pleasanton,CA,94588,865000,1954.0,4.0,4.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2094902016_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+3038 Ferndale Ct,Pleasanton,CA,94588,1100000,2165.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3038-Ferndale-Ct-Pleasanton-CA-94588/25075299_zpid/
+5850 W Las Positas Blvd # R7JT7B,Pleasanton,CA,94588,965000,2144.0,5.0,4.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2094902018_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+5850 W Las Positas Blvd # CJ5IZ9,Pleasanton,CA,94588,860000,1948.0,4.0,4.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2094902017_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+3768 Gettysburg Ct N,Pleasanton,CA,94588,975900,1834.0,4.0,3.0,7,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3768-Gettysburg-Ct-N-Pleasanton-CA-94588/25066069_zpid/
+6055 Ashley Ct,Pleasanton,CA,94588,868000,1489.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6055-Ashley-Ct-Pleasanton-CA-94588/25067944_zpid/
+4649 Denker Dr,Pleasanton,CA,94588,949800,1934.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4649-Denker-Dr-Pleasanton-CA-94588/25068031_zpid/
+3719 Fairlands Dr,Pleasanton,CA,94588,950000,1879.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3719-Fairlands-Dr-Pleasanton-CA-94588/25075075_zpid/
+4177 Georgis Pl,Pleasanton,CA,94588,770000,1503.0,3.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/4177-Georgis-Pl-Pleasanton-CA-94588/25073042_zpid/
+3721 Ashwood Dr,Pleasanton,CA,94588,1100000,2337.0,3.0,3.0,10,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3721-Ashwood-Dr-Pleasanton-CA-94588/25066489_zpid/
+Ashwood Dr,Pleasanton,CA,94588,NA,2337.0,4.0,2.5,108,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128808954_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+7980 Foothill Knolls Dr,Pleasanton,CA,94588,2199000,4807.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7980-Foothill-Knolls-Dr-Pleasanton-CA-94588/25070284_zpid/
+2846 Red Pine Ct,Pleasanton,CA,94588,998000,2051.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2846-Red-Pine-Ct-Pleasanton-CA-94588/25085475_zpid/
+2761 Curry St,Pleasanton,CA,94588,981000,1862.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2761-Curry-St-Pleasanton-CA-94588/61175024_zpid/
+4628 Jefferson Ct,Pleasanton,CA,94588,918000,1816.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4628-Jefferson-Ct-Pleasanton-CA-94588/25068902_zpid/
+18 Foothill Pl,Pleasanton,CA,94588,1898000,3400.0,4.0,4.0,30,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/18-Foothill-Pl-Pleasanton-CA-94588/25082708_zpid/
+7583 Ivy Ct,Pleasanton,CA,94588,617000,1120.0,2.0,2.0,17,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/7583-Ivy-Ct-Pleasanton-CA-94588/25067879_zpid/
+Ivy Ct,Pleasanton,CA,94588,NA,1120.0,2.0,1.0,37,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/129583342_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+4058 Suffolk Way,Pleasanton,CA,94588,1100000,1941.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4058-Suffolk-Way-Pleasanton-CA-94588/25074350_zpid/
+3529 Wind Cave Ct,Pleasanton,CA,94588,899000,1835.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3529-Wind-Cave-Ct-Pleasanton-CA-94588/25066182_zpid/
+3585 Yellowstone Ct,Pleasanton,CA,94588,929000,1835.0,4.0,3.0,16,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3585-Yellowstone-Ct-Pleasanton-CA-94588/25066260_zpid/
+3954 Mount Mckinley Ct,Pleasanton,CA,94588,999990,2424.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3954-Mount-Mckinley-Ct-Pleasanton-CA-94588/25066042_zpid/
+2726 Solandra Ct,Pleasanton,CA,94588,1017000,2051.0,4.0,3.0,15,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2726-Solandra-Ct-Pleasanton-CA-94588/25085503_zpid/
+3330 Harpers Ferry Ct,Pleasanton,CA,94588,959000,1891.0,4.0,2.0,15,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3330-Harpers-Ferry-Ct-Pleasanton-CA-94588/25066338_zpid/
+1511 Honey Suckle Ct,Pleasanton,CA,94588,3198000,5846.0,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1511-Honey-Suckle-Ct-Pleasanton-CA-94588/25082098_zpid/
+7825 Olive Ct,Pleasanton,CA,94588,920000,2004.0,4.0,2.0,53,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/7825-Olive-Ct-Pleasanton-CA-94588/25067160_zpid/
+2185 Arroyo Ct APT 1,Pleasanton,CA,94588,371000,798.0,2.0,1.0,2766,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/2185-Arroyo-Ct-APT-1-Pleasanton-CA-94588/25081499_zpid/
+2207 Segundo Ct APT 1,Pleasanton,CA,94588,375000,798.0,2.0,1.0,2595,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/2207-Segundo-Ct-APT-1-Pleasanton-CA-94588/25081586_zpid/
+7317 Joshua Cir,Pleasanton,CA,94588,899000,1667.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7317-Joshua-Cir-Pleasanton-CA-94588/25066540_zpid/
+De Natale Ct,Pleasanton,CA,94588,NA,1929.0,4.0,2.5,297,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/126883869_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Genovesio Dr,Pleasanton,CA,94588,NA,1624.0,3.0,2.5,59,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/126610689_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Huff Ct,Pleasanton,CA,94588,1030000,2913.0,6.0,3.0,183,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/125842034_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Old School Rd,Pleasanton,CA,94588,NA,3338.0,NA,NA,33,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/129600128_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Marilyn Ct,Pleasanton,CA,94588,1050000,2150.0,4.0,3.0,486,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/124464097_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Clifford Cir,Pleasanton,CA,94588,NA,2326.0,3.0,2.5,54,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128920552_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Knollbrook Dr,Pleasanton,CA,94588,NA,1679.0,3.0,2.0,295,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/126728582_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Snowdrop Cir,Pleasanton,CA,94588,NA,1635.0,3.0,2.5,121,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/127114569_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+3362 Prairie Dr,Pleasanton,CA,94588,1775000,3444.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3362-Prairie-Dr-Pleasanton-CA-94588/25070297_zpid/
+4108 Foothill Rd,Pleasanton,CA,94588,1200000,NA,NA,NA,108,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/4108-Foothill-Rd-Pleasanton-CA-94588/2102160179_zpid/
+4140 Foothill Rd,Pleasanton,CA,94588,5695000,8590.0,5.0,8.0,75,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4140-Foothill-Rd-Pleasanton-CA-94588/2138988880_zpid/
+5606 Belleza Dr,Pleasanton,CA,94588,749001,1611.0,3.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/5606-Belleza-Dr-Pleasanton-CA-94588/25072808_zpid/
+8335 Regency Dr,Pleasanton,CA,94588,1899950,4106.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8335-Regency-Dr-Pleasanton-CA-94588/25081448_zpid/
+5850 W Las Positas Blvd,Pleasanton,CA,94588,965000,2144.0,5.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/5850-W-Las-Positas-Blvd-Pleasanton-CA-94588/124735373_zpid/
+5574 Old School Rd,Pleasanton,CA,94588,2299999,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/5574-Old-School-Rd-Pleasanton-CA-94588/2141726049_zpid/
+7191 Johnston,Danville,CA,94588,7500000,6500.0,5.0,7.0,60,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7191-Johnston-Danville-CA-94588/2094901884_zpid/
+1957 Clover Ct,Pleasanton,CA,94588,2499000,4386.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1957-Clover-Ct-Pleasanton-CA-94588/25082044_zpid/
+1420 Finley Rd,Danville,CA,94588,4950000,7269.0,5.0,6.0,346,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1420-Finley-Rd-Danville-CA-94588/2098307540_zpid/
+8525 Lupine Ct,Pleasanton,CA,94588,2395000,4183.0,4.0,5.0,73,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8525-Lupine-Ct-Pleasanton-CA-94588/25082089_zpid/
+2129 Cascara Ct,Pleasanton,CA,94588,4188888,8474.0,7.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2129-Cascara-Ct-Pleasanton-CA-94588/25082018_zpid/
+5175 Camino Tassajara,Danville,CA,94588,3525000,6164.0,5.0,5.0,80,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5175-Camino-Tassajara-Danville-CA-94588/18435925_zpid/
+5824 W Las Positas Blvd,Pleasanton,CA,94588,865000,1954.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/5824-W-Las-Positas-Blvd-Pleasanton-CA-94588/2095629264_zpid/
+6351 Johnston Rd,Pleasanton,CA,94588,3500000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/6351-Johnston-Rd-Pleasanton-CA-94588/2127812511_zpid/
+3678 Foothill Rd,PLEASANTON,CA,94588,1200000,NA,NA,NA,43,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/3678-Foothill-Rd-Pleasanton-CA-94588/108252259_zpid/
+5353 Old School Rd,Pleasanton,CA,94588,1699000,3189.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5353-Old-School-Rd-Pleasanton-CA-94588/18435876_zpid/
+1512 Honey Suckle Ct,Pleasanton,CA,94588,1400000,NA,NA,NA,274,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/1512-Honey-Suckle-Ct-Pleasanton-CA-94588/111384994_zpid/
+17221 Via La Jolla,San Lorenzo,CA,94580,639950,1714.0,4.0,2.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/17221-Via-La-Jolla-San-Lorenzo-CA-94580/24957172_zpid/
+1830 Via Toyon,San Lorenzo,CA,94580,598000,1394.0,2.0,2.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1830-Via-Toyon-San-Lorenzo-CA-94580/24956412_zpid/
+17946 Via Valencia,San Lorenzo,CA,94580,529000,1077.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/17946-Via-Valencia-San-Lorenzo-CA-94580/24961676_zpid/
+1394 Culver Pl,San Lorenzo,CA,94580,430000,1188.0,2.0,2.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/1394-Culver-Pl-San-Lorenzo-CA-94580/24955463_zpid/
+225 Via Bellita,San Lorenzo,CA,94580,648000,1781.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/225-Via-Bellita-San-Lorenzo-CA-94580/24962037_zpid/
+17289 Via Melina,San Lorenzo,CA,94580,537000,1031.0,3.0,1.0,7,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/17289-Via-Melina-San-Lorenzo-CA-94580/24957338_zpid/
+625 Empire St,San Lorenzo,CA,94580,588000,1451.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/625-Empire-St-San-Lorenzo-CA-94580/24895776_zpid/
+1744 Via Ventana,San Lorenzo,CA,94580,597000,1100.0,3.0,1.5,17,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1744-Via-Ventana-San-Lorenzo-CA-94580/24955609_zpid/
+16073 Paseo Del Campo,San Lorenzo,CA,94580,460000,1000.0,3.0,1.0,906,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/16073-Paseo-Del-Campo-San-Lorenzo-CA-94580/24959084_zpid/
+Via Ventana,San Lorenzo,CA,94580,NA,1999.0,4.0,2.5,288,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/126897448_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+1655 Via Barrett,San Lorenzo,CA,94580,553000,1471.0,3.0,2.0,1417,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/1655-Via-Barrett-San-Lorenzo-CA-94580/24955020_zpid/
+Heather Ln,San Lorenzo,CA,94580,NA,1948.0,4.0,3.0,302,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/126883890_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Ashland Ave,San Lorenzo,CA,94580,NA,552.0,1.0,1.0,47,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128932177_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Grant Ave,San Lorenzo,CA,94580,522000,1472.0,3.0,2.0,452,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/116833663_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Hesperian Blvd,San Lorenzo,CA,94580,NA,1096.0,3.0,1.0,95,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128834520_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+17541 Wickman Pl,San Lorenzo,CA,94580,359000,1170.0,3.0,2.0,86,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/17541-Wickman-Pl-San-Lorenzo-CA-94580/24960937_zpid/
+Via Estrella,San Lorenzo,CA,94580,NA,1650.0,3.0,1.0,44,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/129569329_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Via Manzanas,San Lorenzo,CA,94580,NA,1134.0,3.0,1.0,93,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/127013257_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Via Anacapa,San Lorenzo,CA,94580,536000,1812.0,4.0,2.0,256,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/124878790_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Wagner St,San Lorenzo,CA,94580,NA,1441.0,3.0,1.0,87,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128849852_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Via Bregani,San Lorenzo,CA,94580,NA,1403.0,3.0,2.0,213,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/127215669_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Via Bolsa,San Lorenzo,CA,94580,NA,1024.0,3.0,1.0,123,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128660366_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Via Pinale,San Lorenzo,CA,94580,NA,1000.0,3.0,1.0,142,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128644118_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Paseo Largavista,San Lorenzo,CA,94580,494000,1307.0,3.0,1.0,316,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/125417461_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Via Pinale,San Lorenzo,CA,94580,462000,986.0,3.0,1.0,325,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/124817894_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Via Rancho,San Lorenzo,CA,94580,519000,1143.0,3.0,2.0,445,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/124878789_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+18500 Via Arriba,San Lorenzo,CA,94580,649000,1712.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/18500-Via-Arriba-San-Lorenzo-CA-94580/24960295_zpid/
+17932 Via Arriba,San Lorenzo,CA,94580,589000,1310.0,3.0,2.0,273,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/17932-Via-Arriba-San-Lorenzo-CA-94580/24959874_zpid/
+17336 Via Andeta,San Lorenzo,CA,94580,485000,1000.0,3.0,1.0,111,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/17336-Via-Andeta-San-Lorenzo-CA-94580/24959525_zpid/
+Page St,SAN LORENZO,CA,94580,NA,NA,NA,NA,3084,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/Page-St-San-Lorenzo-CA-94580/61174355_zpid/
+166TH Ave,San Leandro,CA,94580,119999,4248.0,NA,NA,54,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/166TH-Ave-San-Leandro-CA-94580/2094831924_zpid/
+2151 167th Ave,San Lorenzo,CA,94580,468000,7405.0,NA,NA,220,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/2151-167th-Ave-San-Lorenzo-CA-94580/2096732633_zpid/
+2918 Langhorne Dr,San Ramon,CA,94582,1159000,2720.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2918-Langhorne-Dr-San-Ramon-CA-94582/68036710_zpid/
+83 Tahoe Ct APT 203,San Ramon,CA,94582,649000,1192.0,3.0,2.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/83-Tahoe-Ct-APT-203-San-Ramon-CA-94582/18455715_zpid/
+85 Tahoe Ct APT 101,San Ramon,CA,94582,629000,1309.0,3.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/85-Tahoe-Ct-APT-101-San-Ramon-CA-94582/18455717_zpid/
+189 Copper Ridge Rd,San Ramon,CA,94582,599000,1314.0,2.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/189-Copper-Ridge-Rd-San-Ramon-CA-94582/2094205858_zpid/
+613 S Blackbrush Ln,San Ramon,CA,94582,838950,1904.0,4.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/613-S-Blackbrush-Ln-San-Ramon-CA-94582/18456374_zpid/
+3066 Montbretia Way,San Ramon,CA,94582,1499000,3153.0,4.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3066-Montbretia-Way-San-Ramon-CA-94582/122007472_zpid/
+3132 Ashbrook Ln,San Ramon,CA,94582,1252000,3173.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3132-Ashbrook-Ln-San-Ramon-CA-94582/67699089_zpid/
+6036 Dalton Way,San Ramon,CA,94582,999000,2062.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6036-Dalton-Way-San-Ramon-CA-94582/72555049_zpid/
+6139 Alpine Blue Dr # 4SC2AN,San Ramon,CA,94582,949995,2148.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6139-Alpine-Blue-Dr-4SC2AN-San-Ramon-CA-94582/2096827515_zpid/
+2017 Elderberry Dr # 9OVCXB,San Ramon,CA,94582,1396995,3200.0,4.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2017-Elderberry-Dr-9OVCXB-San-Ramon-CA-94582/2094189539_zpid/
+3306 Browntail Way,San Ramon,CA,94582,889900,1770.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3306-Browntail-Way-San-Ramon-CA-94582/72551152_zpid/
+6859 Emerson Ln,San Ramon,CA,94582,1330000,3324.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6859-Emerson-Ln-San-Ramon-CA-94582/89036514_zpid/
+3532 York Ln,San Ramon,CA,94582,1495000,3810.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3532-York-Ln-San-Ramon-CA-94582/68040468_zpid/
+6139 Alpine Blue Dr # 4TZG2T,San Ramon,CA,94582,956995,2119.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6139-Alpine-Blue-Dr-4TZG2T-San-Ramon-CA-94582/2096827518_zpid/
+2025 Elderberry Dr # GBSC2E,San Ramon,CA,94582,1792995,5074.0,5.0,6.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2025-Elderberry-Dr-GBSC2E-San-Ramon-CA-94582/2096118705_zpid/
+140 Eastridge Dr,San Ramon,CA,94582,430000,730.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/140-Eastridge-Dr-San-Ramon-CA-94582/18451528_zpid/
+2002 Trefoil Rd # 2NV55R,San Ramon,CA,94582,1096995,2384.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2002-Trefoil-Rd-2NV55R-San-Ramon-CA-94582/2094675524_zpid/
+2002 Trefoil Rd # 990E9L,San Ramon,CA,94582,1039995,1983.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2002-Trefoil-Rd-990E9L-San-Ramon-CA-94582/2094255473_zpid/
+2002 Trefoil Rd # 339DSN,San Ramon,CA,94582,1039995,2333.0,4.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2002-Trefoil-Rd-339DSN-San-Ramon-CA-94582/2095232759_zpid/
+2002 Trefoil Rd # 9B7KN5,San Ramon,CA,94582,1096995,2384.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2002-Trefoil-Rd-9B7KN5-San-Ramon-CA-94582/2097217697_zpid/
+2002 Trefoil Rd # 9A3ZGD,San Ramon,CA,94582,1151995,2530.0,4.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2002-Trefoil-Rd-9A3ZGD-San-Ramon-CA-94582/2094255470_zpid/
+2002 Trefoil Rd # 97D0HF,San Ramon,CA,94582,1116995,2333.0,4.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2002-Trefoil-Rd-97D0HF-San-Ramon-CA-94582/2094255471_zpid/
+2002 Trefoil Rd # 98GLO7,San Ramon,CA,94582,1096995,2384.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2002-Trefoil-Rd-98GLO7-San-Ramon-CA-94582/2094255472_zpid/
+7296 Briza Loop,San Ramon,CA,94582,710000,1351.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/7296-Briza-Loop-San-Ramon-CA-94582/50918644_zpid/
+78 Lone Pine Ct,San Ramon,CA,94582,1550000,2998.0,4.0,4.0,4,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/78-Lone-Pine-Ct-San-Ramon-CA-94582/18449823_zpid/
+6208 Main Branch Rd # 2JLWOI,San Ramon,CA,94582,816995,1808.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2102580157_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+7656 Stoneleaf Rd # 41,San Ramon,CA,94582,719000,1763.0,2.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/7656-Stoneleaf-Rd-41-San-Ramon-CA-94582/89038245_zpid/
+7604 Stoneleaf Rd,San Ramon,CA,94582,810000,2203.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/7604-Stoneleaf-Rd-San-Ramon-CA-94582/95437939_zpid/
+5373 Fioli Loop,San Ramon,CA,94582,809000,2337.0,4.0,4.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/5373-Fioli-Loop-San-Ramon-CA-94582/95377996_zpid/
+6139 Alpine Blue Dr # 694BBZ,San Ramon,CA,94582,956995,2172.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6139-Alpine-Blue-Dr-694BBZ-San-Ramon-CA-94582/2097217620_zpid/
+6129 Alpine Blue Dr # R6LGG2,San Ramon,CA,94582,1323995,2960.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6129-Alpine-Blue-Dr-R6LGG2-San-Ramon-CA-94582/2094605445_zpid/
+6208 Main Branch Rd # 1ADP37,San Ramon,CA,94582,1139995,2520.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6208-Main-Branch-Rd-1ADP37-San-Ramon-CA-94582/2097217741_zpid/
+2002 Trefoil Rd # 2M7RDL,San Ramon,CA,94582,1039995,1983.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2002-Trefoil-Rd-2M7RDL-San-Ramon-CA-94582/2094675521_zpid/
+6129 Alpine Blue Dr # TY47ZG,San Ramon,CA,94582,1364995,3137.0,4.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6129-Alpine-Blue-Dr-TY47ZG-San-Ramon-CA-94582/2097217707_zpid/
+2025 Elderberry Dr # GTXJO8,San Ramon,CA,94582,1841995,5074.0,5.0,6.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2025-Elderberry-Dr-GTXJO8-San-Ramon-CA-94582/2095150063_zpid/
+Prestwick Ct,San Ramon,CA,94582,NA,2300.0,3.0,2.5,11,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/127029912_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+6129 Alpine Blue Dr # TX0MSO,San Ramon,CA,94582,1323995,3137.0,4.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6129-Alpine-Blue-Dr-TX0MSO-San-Ramon-CA-94582/2097217713_zpid/
+2308 Cedarwood Loop,San Ramon,CA,94582,789000,1659.0,4.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/2308-Cedarwood-Loop-San-Ramon-CA-94582/68041757_zpid/
+6139 Alpine Blue Dr # 4UJ8O7,San Ramon,CA,94582,956995,2175.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6139-Alpine-Blue-Dr-4UJ8O7-San-Ramon-CA-94582/2096827516_zpid/
+6139 Alpine Blue Dr # 5C4NON,San Ramon,CA,94582,959995,2152.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6139-Alpine-Blue-Dr-5C4NON-San-Ramon-CA-94582/2096827509_zpid/
+6139 Alpine Blue Dr # 5ORXCL,San Ramon,CA,94582,949995,2148.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6139-Alpine-Blue-Dr-5ORXCL-San-Ramon-CA-94582/2096827508_zpid/
+6139 Alpine Blue Dr # 5O84R7,San Ramon,CA,94582,989995,2358.0,3.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6139-Alpine-Blue-Dr-5O84R7-San-Ramon-CA-94582/2096827510_zpid/
+Lava Falls Ct,San Ramon,CA,94582,NA,2806.0,3.0,3.0,25,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/129600129_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+755 Watson Canyon Ct APT 131,San Ramon,CA,94582,508000,914.0,2.0,2.0,10,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/755-Watson-Canyon-Ct-APT-131-San-Ramon-CA-94582/18451840_zpid/
+5030 Fioli Loop,San Ramon,CA,94582,789000,2140.0,4.0,4.0,16,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/5030-Fioli-Loop-San-Ramon-CA-94582/111413977_zpid/
+735 Lakemont Pl UNIT 8,San Ramon,CA,94582,850000,2141.0,4.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/735-Lakemont-Pl-UNIT-8-San-Ramon-CA-94582/18450668_zpid/
+617 Karina Ct,San Ramon,CA,94582,1350000,3543.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/617-Karina-Ct-San-Ramon-CA-94582/67699108_zpid/
+6208 Main Branch Rd # MTAAPH,San Ramon,CA,94582,865995,1819.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2102580153_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+5360 Fioli Loop,San Ramon,CA,94582,799900,2330.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/5360-Fioli-Loop-San-Ramon-CA-94582/111413181_zpid/
+2006 Amaryllis Cir,San Ramon,CA,94582,830300,1659.0,4.0,3.0,24,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/2006-Amaryllis-Cir-San-Ramon-CA-94582/67698817_zpid/
+2014 Poinsettia St,San Ramon,CA,94582,1029999,2217.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2014-Poinsettia-St-San-Ramon-CA-94582/2094924256_zpid/
+3131 Tewksbury Way,San Ramon,CA,94582,1358000,3827.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3131-Tewksbury-Way-San-Ramon-CA-94582/68036932_zpid/
+7079 Emerson Ln,San Ramon,CA,94582,1549000,4645.0,6.0,5.0,27,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7079-Emerson-Ln-San-Ramon-CA-94582/95378338_zpid/
+1946 Hollyview Dr,San Ramon,CA,94582,1149900,2406.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1946-Hollyview-Dr-San-Ramon-CA-94582/68036449_zpid/
+409 Silvercrown Way,San Ramon,CA,94582,1056095,1983.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/409-Silvercrown-Way-San-Ramon-CA-94582/2095232764_zpid/
+2772 Paige Way,San Ramon,CA,94582,1439000,4060.0,5.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2772-Paige-Way-San-Ramon-CA-94582/72550411_zpid/
+3125 Hastings Way,San Ramon,CA,94582,1329900,3317.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3125-Hastings-Way-San-Ramon-CA-94582/68040546_zpid/
+7754 Stoneleaf Rd,San Ramon,CA,94582,719000,1730.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/7754-Stoneleaf-Rd-San-Ramon-CA-94582/89036581_zpid/
+3067 Hastings Way,San Ramon,CA,94582,1399888,3474.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3067-Hastings-Way-San-Ramon-CA-94582/68040456_zpid/
+2025 Sorrelwood Ct,San Ramon,CA,94582,1398000,2913.0,4.0,3.0,28,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2025-Sorrelwood-Ct-San-Ramon-CA-94582/18461998_zpid/
+405 Ustilago Ct,San Ramon,CA,94582,1399000,2372.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/405-Ustilago-Ct-San-Ramon-CA-94582/50918971_zpid/
+4125 Canyon Crest Rd W,San Ramon,CA,94582,1285000,2758.0,4.0,3.0,22,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4125-Canyon-Crest-Rd-W-San-Ramon-CA-94582/18454602_zpid/
+5509 Satinleaf Way,San Ramon,CA,94582,2449000,5200.0,5.0,5.0,16,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5509-Satinleaf-Way-San-Ramon-CA-94582/68032954_zpid/
+2271 Britannia Dr,San Ramon,CA,94582,1629000,4585.0,5.0,4.0,24,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2271-Britannia-Dr-San-Ramon-CA-94582/67698647_zpid/
+2025 Elderberry Dr # TJY6L6,San Ramon,CA,94582,1786995,5039.0,5.0,6.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2025-Elderberry-Dr-TJY6L6-San-Ramon-CA-94582/2094605443_zpid/
+Tewksbury Ct,San Ramon,CA,94582,1320000,4137.0,4.0,3.5,429,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/124796334_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+6208 Main Branch Rd # 1AXHOL,San Ramon,CA,94582,1161995,2808.0,4.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6208-Main-Branch-Rd-1AXHOL-San-Ramon-CA-94582/2097217740_zpid/
+5521 Satinleaf Way,San Ramon,CA,94582,2180000,4578.0,4.0,5.0,115,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/5521-Satinleaf-Way-San-Ramon-CA-94582/68032951_zpid/
+2017 Elderberry Dr # P8255T,San Ramon,CA,94582,1396995,3556.0,4.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2017-Elderberry-Dr-P8255T-San-Ramon-CA-94582/2096118709_zpid/
+6139 Alpine Blue Dr # 68KIQL,San Ramon,CA,94582,956995,2175.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6139-Alpine-Blue-Dr-68KIQL-San-Ramon-CA-94582/2097217607_zpid/
+2017 Elderberry Dr # MX17G3,San Ramon,CA,94582,1475995,3556.0,4.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2017-Elderberry-Dr-MX17G3-San-Ramon-CA-94582/2095330211_zpid/
+Wrangler Rd,San Ramon,CA,94582,1000000,2595.0,4.0,3.0,404,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/123269452_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Goldenrod Ln,San Ramon,CA,94582,NA,2201.0,4.0,3.0,123,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/126907753_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+6208 Main Branch Rd # 0YA80N,San Ramon,CA,94582,1219995,2890.0,4.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6208-Main-Branch-Rd-0YA80N-San-Ramon-CA-94582/2097223724_zpid/
+2017 Elderberry Dr # P7ICKF,San Ramon,CA,94582,1485995,3200.0,4.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2017-Elderberry-Dr-P7ICKF-San-Ramon-CA-94582/2096118704_zpid/
+2025 Elderberry Dr # GUHC9M,San Ramon,CA,94582,1792995,5039.0,5.0,6.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2025-Elderberry-Dr-GUHC9M-San-Ramon-CA-94582/2094860741_zpid/
+Ivy Pointe Cir,San Ramon,CA,94582,771000,1904.0,4.0,2.5,122,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/122149550_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Mclaren Ln,San Ramon,CA,94582,816000,1578.0,3.0,2.5,396,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/126074771_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+6139 Alpine Blue Dr # 680Q57,San Ramon,CA,94582,949995,2119.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6139-Alpine-Blue-Dr-680Q57-San-Ramon-CA-94582/2097217613_zpid/
+6129 Alpine Blue Dr # UFPMZW,San Ramon,CA,94582,1414995,2803.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6129-Alpine-Blue-Dr-UFPMZW-San-Ramon-CA-94582/2095700439_zpid/
+2017 Elderberry Dr # P8LXR7,San Ramon,CA,94582,1475995,3556.0,4.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2017-Elderberry-Dr-P8LXR7-San-Ramon-CA-94582/2096118703_zpid/
+Ginger Ct,San Ramon,CA,94582,1290000,3189.0,4.0,3.0,88,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/125443613_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Latera Ct,San Ramon,CA,94582,1060000,2494.0,4.0,3.0,599,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/123541224_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+2002 Trefoil Rd # 30IETP,San Ramon,CA,94582,1116995,2530.0,4.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2002-Trefoil-Rd-30IETP-San-Ramon-CA-94582/2095232756_zpid/
+Bridge Creek Dr,San Ramon,CA,94582,NA,2366.0,5.0,3.0,256,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/127116093_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+6129 Alpine Blue Dr # RJ8Q40,San Ramon,CA,94582,1364995,3137.0,4.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6129-Alpine-Blue-Dr-RJ8Q40-San-Ramon-CA-94582/2094605447_zpid/
+Mclaren Ln,San Ramon,CA,94582,NA,1775.0,3.0,2.5,130,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128636186_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Bayporte Way,San Ramon,CA,94582,854000,1811.0,4.0,3.0,358,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/125775936_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+E Lakeshore Dr,San Ramon,CA,94582,883000,2000.0,3.0,2.5,626,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/119666020_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+W Lakeshore Dr,San Ramon,CA,94582,769000,1721.0,2.0,2.5,474,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/117466085_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+2002 Trefoil Rd # 9NB1PP,San Ramon,CA,94582,1039995,1983.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2002-Trefoil-Rd-9NB1PP-San-Ramon-CA-94582/2097217704_zpid/
+Portsmouth Ct,San Ramon,CA,94582,NA,3038.0,4.0,2.5,164,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/126744480_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+2025 Elderberry Dr # GCVX96,San Ramon,CA,94582,1841995,5299.0,5.0,6.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2025-Elderberry-Dr-GCVX96-San-Ramon-CA-94582/2096118700_zpid/
+Andreas Way,San Ramon,CA,94582,1210000,3296.0,4.0,3.5,326,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/124007984_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Kirkstone Ct,San Ramon,CA,94582,NA,2288.0,4.0,3.0,113,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128790132_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+2002 Trefoil Rd # 2LNYS7,San Ramon,CA,94582,1151995,2530.0,4.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2002-Trefoil-Rd-2LNYS7-San-Ramon-CA-94582/2094675522_zpid/
+Sun Ridge Dr,San Ramon,CA,94582,NA,2570.0,4.0,3.0,288,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/126876055_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+S Chanterella Dr,San Ramon,CA,94582,1260000,2811.0,4.0,3.0,171,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/123733232_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+6129 Alpine Blue Dr # R61NUO,San Ramon,CA,94582,1364995,3137.0,4.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6129-Alpine-Blue-Dr-R61NUO-San-Ramon-CA-94582/2094605444_zpid/
+2025 Elderberry Dr # GSA5W2,San Ramon,CA,94582,1786995,5039.0,5.0,6.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2025-Elderberry-Dr-GSA5W2-San-Ramon-CA-94582/2095680019_zpid/
+Campanula Dr,San Ramon,CA,94582,NA,2065.0,3.0,2.0,606,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/127117597_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+6129 Alpine Blue Dr # RIOXIM,San Ramon,CA,94582,1414995,2803.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6129-Alpine-Blue-Dr-RIOXIM-San-Ramon-CA-94582/2094605448_zpid/
+2025 Elderberry Dr # GRQDAO,San Ramon,CA,94582,1792995,5074.0,5.0,6.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2025-Elderberry-Dr-GRQDAO-San-Ramon-CA-94582/2095680018_zpid/
+6129 Alpine Blue Dr # U0BED0,San Ramon,CA,94582,1414995,2960.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6129-Alpine-Blue-Dr-U0BED0-San-Ramon-CA-94582/2095171567_zpid/
+6139 Alpine Blue Dr # 69O3XD,San Ramon,CA,94582,959995,2152.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6139-Alpine-Blue-Dr-69O3XD-San-Ramon-CA-94582/2097217612_zpid/
+6139 Alpine Blue Dr # 4A6UOT,San Ramon,CA,94582,949995,2152.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6139-Alpine-Blue-Dr-4A6UOT-San-Ramon-CA-94582/2096827512_zpid/
+6129 Alpine Blue Dr # TZRLRM,San Ramon,CA,94582,1323995,2803.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6129-Alpine-Blue-Dr-TZRLRM-San-Ramon-CA-94582/2095171563_zpid/
+2002 Trefoil Rd # 9ANS1R,San Ramon,CA,94582,1116995,2333.0,4.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2002-Trefoil-Rd-9ANS1R-San-Ramon-CA-94582/2097217686_zpid/
+6129 Alpine Blue Dr # TXKFE2,San Ramon,CA,94582,1414995,2803.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6129-Alpine-Blue-Dr-TXKFE2-San-Ramon-CA-94582/2097217732_zpid/
+2025 Elderberry Dr # GCC4NS,San Ramon,CA,94582,1786995,5039.0,5.0,6.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2025-Elderberry-Dr-GCC4NS-San-Ramon-CA-94582/2096118701_zpid/
+6139 Alpine Blue Dr # 49N23F,San Ramon,CA,94582,989995,2172.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6139-Alpine-Blue-Dr-49N23F-San-Ramon-CA-94582/2096827519_zpid/
+6129 Alpine Blue Dr # UE297Q,San Ramon,CA,94582,1364995,2803.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6129-Alpine-Blue-Dr-UE297Q-San-Ramon-CA-94582/2095171565_zpid/
+2002 Trefoil Rd # 31M00H,San Ramon,CA,94582,1151995,2384.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/2002-Trefoil-Rd-31M00H-San-Ramon-CA-94582/2095232760_zpid/
+6129 Alpine Blue Dr # UEM1T4,San Ramon,CA,94582,1323995,2803.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6129-Alpine-Blue-Dr-UEM1T4-San-Ramon-CA-94582/2095171564_zpid/
+W Lakeshore Dr,San Ramon,CA,94582,NA,2114.0,3.0,3.0,51,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128912118_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+6208 Main Branch Rd # VHAZY6,San Ramon,CA,94582,832995,1903.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2102580155_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+54 Shasta Ct,San Ramon,CA,94582,870000,2162.0,3.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/54-Shasta-Ct-San-Ramon-CA-94582/64466770_zpid/
+6208 Main Branch Rd # PCTJ71,San Ramon,CA,94582,829995,1742.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2102580156_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+329 Bellflower Dr,San Ramon,CA,94582,759000,1587.0,3.0,3.0,31,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/329-Bellflower-Dr-San-Ramon-CA-94582/18456292_zpid/
+515 Montrose Ct,San Ramon,CA,94582,975000,2300.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/515-Montrose-Ct-San-Ramon-CA-94582/72555206_zpid/
+66 Shasta Ct,San Ramon,CA,94582,859000,2097.0,3.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/66-Shasta-Ct-San-Ramon-CA-94582/18455382_zpid/
+4235 Astor Hollow St,SAN RAMON,CA,94582,1017850,2115.0,3.0,3.0,118,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4235-Astor-Hollow-St-San-Ramon-CA-94582/111413074_zpid/
+Thayer Ln,San Ramon,CA,94582,1275000,3364.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/Thayer-Ln-San-Ramon-CA-94582/2135707131_zpid/
+6208 Main Branch Rd # EXU40H,San Ramon,CA,94582,906995,2157.0,3.0,4.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2102580154_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+1009 Sky Jasmine Way,San Ramon,CA,94582,1675000,4263.0,5.0,6.0,237,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1009-Sky-Jasmine-Way-San-Ramon-CA-94582/2096955179_zpid/
+108 Canyon Green Pl,San Ramon,CA,94582,799500,2354.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/108-Canyon-Green-Pl-San-Ramon-CA-94582/18450240_zpid/
+133 Lucy Ln,San Ramon,CA,94582,1098000,2620.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/133-Lucy-Ln-San-Ramon-CA-94582/95427851_zpid/
+1109 Rosamund Dr,San Ramon,CA,94582,1498285,3583.0,4.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/1109-Rosamund-Dr-San-Ramon-CA-94582/2095680022_zpid/
+1101 Rosamund Dr,San Ramon,CA,94582,1577190,3619.0,4.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/1101-Rosamund-Dr-San-Ramon-CA-94582/2096118713_zpid/
+2511 Soren Way,San Ramon,CA,94582,775000,1885.0,3.0,3.0,40,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/2511-Soren-Way-San-Ramon-CA-94582/67705120_zpid/
+100 Maidenhair Ct,San Ramon,CA,94582,849000,1606.0,3.0,3.0,49,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/100-Maidenhair-Ct-San-Ramon-CA-94582/72549305_zpid/
+1132 Rosamund Dr,San Ramon,CA,94582,1440480,3313.0,4.0,5.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/1132-Rosamund-Dr-San-Ramon-CA-94582/2095330208_zpid/
+2048 Feathermint Dr,San Ramon,CA,94582,1698900,4673.0,6.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2048-Feathermint-Dr-San-Ramon-CA-94582/67698655_zpid/
+416 Bridle Ct,San Ramon,CA,94582,1799900,4721.0,5.0,4.0,414,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/416-Bridle-Ct-San-Ramon-CA-94582/82853317_zpid/
+151 Landsdowne Loop,San Ramon,CA,94582,779898,1979.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/151-Landsdowne-Loop-San-Ramon-CA-94582/68038811_zpid/
+700 Roverton Ct,San Ramon,CA,94582,1485000,3472.0,5.0,4.0,37,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/700-Roverton-Ct-San-Ramon-CA-94582/68036888_zpid/
+5071 Rowan Dr,San Ramon,CA,94582,994209,2150.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/5071-Rowan-Dr-San-Ramon-CA-94582/2096728242_zpid/
+5061 Rowan Dr,San Ramon,CA,94582,997538,2150.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/5061-Rowan-Dr-San-Ramon-CA-94582/2097217593_zpid/
+5063 Rowan Dr,San Ramon,CA,94582,954230,2055.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/5063-Rowan-Dr-San-Ramon-CA-94582/2097217606_zpid/
+5079 Rowan Dr,San Ramon,CA,94582,1011710,2150.0,4.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/5079-Rowan-Dr-San-Ramon-CA-94582/2096728243_zpid/
+1282 Bellingham Sq,San Ramon,CA,94582,1649000,4000.0,4.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1282-Bellingham-Sq-San-Ramon-CA-94582/61237623_zpid/
+7087 Hyacinthus Ln,San Ramon,CA,94582,955479,2170.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/7087-Hyacinthus-Ln-San-Ramon-CA-94582/2097217618_zpid/
+3582 Rosincress Dr,San Ramon,CA,94582,1688000,3700.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3582-Rosincress-Dr-San-Ramon-CA-94582/18462208_zpid/
+112 Leary Ct,San Ramon,CA,94582,1599000,3850.0,5.0,4.0,31,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/112-Leary-Ct-San-Ramon-CA-94582/67705041_zpid/
+3301 Roma Pl,San Ramon,CA,94583,759000,1309.0,3.0,2.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/3301-Roma-Pl-San-Ramon-CA-94583/18447876_zpid/
+4 Pine Valley Pl,San Ramon,CA,94583,1455000,3484.0,5.0,5.0,31,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4-Pine-Valley-Pl-San-Ramon-CA-94583/54628003_zpid/
+1128 Hawkshead Cir,San Ramon,CA,94583,2250000,5965.0,6.0,7.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1128-Hawkshead-Cir-San-Ramon-CA-94583/95408384_zpid/
+2990 Montevideo Dr,San Ramon,CA,94583,825000,1880.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2990-Montevideo-Dr-San-Ramon-CA-94583/18448839_zpid/
+313 Cameron Cir,San Ramon,CA,94583,1150000,2727.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/313-Cameron-Cir-San-Ramon-CA-94583/18449377_zpid/
+305 Goshen Ct,San Ramon,CA,94583,838000,1370.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/305-Goshen-Ct-San-Ramon-CA-94583/18445152_zpid/
+3051 Kittery Ave,San Ramon,CA,94583,809950,1238.0,3.0,2.0,3,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3051-Kittery-Ave-San-Ramon-CA-94583/18447684_zpid/
+131 Shadowhill Cir,San Ramon,CA,94583,840000,1995.0,4.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/131-Shadowhill-Cir-San-Ramon-CA-94583/50918499_zpid/
+3705 Andalucia Ct,San Ramon,CA,94583,985000,2107.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3705-Andalucia-Ct-San-Ramon-CA-94583/18441798_zpid/
+957 Springview Cir,San Ramon,CA,94583,880000,1720.0,3.0,2.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/957-Springview-Cir-San-Ramon-CA-94583/18450602_zpid/
+12964 Hawkins Dr,San Ramon,CA,94583,1076000,2081.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/12964-Hawkins-Dr-San-Ramon-CA-94583/54627479_zpid/
+196 Ryan Industrial Ct # 1K9WAP,San Ramon,CA,94583,748000,1701.0,3.0,3.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2095773403_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+115 Cassandra Pl,San Ramon,CA,94583,910000,1819.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/115-Cassandra-Pl-San-Ramon-CA-94583/18444135_zpid/
+196 Ryan Industrial Ct # 20RQ3K,San Ramon,CA,94583,793000,1940.0,3.0,4.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2095773405_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+196 Ryan Industrial Ct # 1389WE,San Ramon,CA,94583,773000,1840.0,3.0,4.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2095773409_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+596 Santander Dr,San Ramon,CA,94583,1058800,NA,4.0,2.0,3,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/596-Santander-Dr-San-Ramon-CA-94583/18441923_zpid/
+217 Stone Pine Ln,San Ramon,CA,94583,520000,1177.0,2.0,3.0,1,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/217-Stone-Pine-Ln-San-Ramon-CA-94583/18440277_zpid/
+2639 Marsh Dr,San Ramon,CA,94583,699950,1456.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2639-Marsh-Dr-San-Ramon-CA-94583/18441508_zpid/
+631 Greylyn Dr,San Ramon,CA,94583,NA,1988.0,4.0,2.5,4,Auction,http://www.zillow.com/homes/for_sale//homedetails/631-Greylyn-Dr-San-Ramon-CA-94583/18446377_zpid/
+Greylyn Dr,San Ramon,CA,94583,NA,1988.0,4.0,2.5,19,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/127127614_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+9604 Davona Dr,San Ramon,CA,94583,897000,1812.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9604-Davona-Dr-San-Ramon-CA-94583/18444344_zpid/
+54 Dos Rios Ct,San Ramon,CA,94583,990000,1993.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/54-Dos-Rios-Ct-San-Ramon-CA-94583/18440513_zpid/
+196 Ryan Industrial Ct # 1JQ3P9,San Ramon,CA,94583,763000,1791.0,3.0,4.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2095773399_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+3024 Butte Ave,San Ramon,CA,94583,839900,1288.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3024-Butte-Ave-San-Ramon-CA-94583/18445090_zpid/
+2 Colonial Ct,San Ramon,CA,94583,999950,2112.0,4.0,2.0,10,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2-Colonial-Ct-San-Ramon-CA-94583/18445372_zpid/
+285 Reflections Dr APT 13,San Ramon,CA,94583,505000,949.0,2.0,2.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/285-Reflections-Dr-APT-13-San-Ramon-CA-94583/72551391_zpid/
+2692 Shadow Mountain Dr,San Ramon,CA,94583,619950,1427.0,2.0,2.0,10,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/2692-Shadow-Mountain-Dr-San-Ramon-CA-94583/18441158_zpid/
+24 San Blas Pl,San Ramon,CA,94583,824900,1383.0,4.0,2.0,8,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/24-San-Blas-Pl-San-Ramon-CA-94583/18447353_zpid/
+196 Ryan Industrial Ct # 21BIOU,San Ramon,CA,94583,803000,1956.0,3.0,4.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2095773408_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+9420 Broadmoor Dr,San Ramon,CA,94583,878000,1489.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9420-Broadmoor-Dr-San-Ramon-CA-94583/18443486_zpid/
+190 Terrazzo Cir,San Ramon,CA,94583,1288000,2847.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/190-Terrazzo-Cir-San-Ramon-CA-94583/54628162_zpid/
+104 Castleton Ct,San Ramon,CA,94583,963000,1534.0,3.0,2.0,9,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/104-Castleton-Ct-San-Ramon-CA-94583/18442314_zpid/
+3378 Loreto Dr,San Ramon,CA,94583,1075000,2139.0,4.0,3.0,9,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3378-Loreto-Dr-San-Ramon-CA-94583/18447830_zpid/
+Compton Cir APT C,San Ramon,CA,94583,NA,995.0,2.0,2.0,11,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/133724751_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Davona Dr,San Ramon,CA,94583,855000,1795.0,4.0,2.0,16,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/116810951_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+9803 Davona Dr,San Ramon,CA,94583,868950,1734.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9803-Davona-Dr-San-Ramon-CA-94583/18446823_zpid/
+315 Bollinger Estates Ct,San Ramon,CA,94583,399000,NA,NA,NA,26,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/315-Bollinger-Estates-Ct-San-Ramon-CA-94583/82799269_zpid/
+3599 Ashbourne Cir,San Ramon,CA,94583,2288888,5303.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3599-Ashbourne-Cir-San-Ramon-CA-94583/59399670_zpid/
+801 Heritage Pl,San Ramon,CA,94583,849950,1573.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/801-Heritage-Pl-San-Ramon-CA-94583/18447665_zpid/
+2915 Biddleford Dr,San Ramon,CA,94583,835000,1383.0,4.0,2.0,29,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2915-Biddleford-Dr-San-Ramon-CA-94583/18447104_zpid/
+196 Ryan Industrial Ct # 12OHB4,San Ramon,CA,94583,818000,2056.0,4.0,4.0,NA,New Construction,"http://www.zillow.com/homes/for_sale/2095773404_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+100 Madora Pl,San Ramon,CA,94583,850000,1623.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/100-Madora-Pl-San-Ramon-CA-94583/18443746_zpid/
+68 Ayamonte Ct,San Ramon,CA,94583,950000,2151.0,4.0,2.0,18,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/68-Ayamonte-Ct-San-Ramon-CA-94583/18442058_zpid/
+Ayamonte Ct,San Ramon,CA,94583,NA,2151.0,4.0,2.0,82,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128847004_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+515 Kingsbridge Ct,San Ramon,CA,94583,1925000,4523.0,5.0,5.0,23,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/515-Kingsbridge-Ct-San-Ramon-CA-94583/68034398_zpid/
+506 Fallen Leaf Cir,San Ramon,CA,94583,1098000,2614.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/506-Fallen-Leaf-Cir-San-Ramon-CA-94583/18451243_zpid/
+9456 Cherry Hills Ln,San Ramon,CA,94583,975000,2620.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9456-Cherry-Hills-Ln-San-Ramon-CA-94583/18444222_zpid/
+540 Ryan Ter,San Ramon,CA,94583,781502,1701.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/540-Ryan-Ter-San-Ramon-CA-94583/2094552554_zpid/
+520 Ryan Ter,San Ramon,CA,94583,800392,1791.0,3.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/520-Ryan-Ter-San-Ramon-CA-94583/2094552555_zpid/
+11 Cherry Hills Ct,San Ramon,CA,94583,985000,2182.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-Cherry-Hills-Ct-San-Ramon-CA-94583/18444225_zpid/
+San Marco Pl,San Ramon,CA,94583,670000,1087.0,3.0,1.5,310,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/125841875_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+205 Ryan Ter,San Ramon,CA,94583,876509,1840.0,3.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/205-Ryan-Ter-San-Ramon-CA-94583/2094552556_zpid/
+515 Wycombe Ct,San Ramon,CA,94583,2265000,5632.0,6.0,7.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/515-Wycombe-Ct-San-Ramon-CA-94583/72553944_zpid/
+2864 Morgan Dr,San Ramon,CA,94583,1295000,2437.0,4.0,3.0,24,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2864-Morgan-Dr-San-Ramon-CA-94583/18442825_zpid/
+2547 Toltec Cir,San Ramon,CA,94583,1159000,2718.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2547-Toltec-Cir-San-Ramon-CA-94583/18441647_zpid/
+7508 Northland Ave,San Ramon,CA,94583,1075000,2423.0,6.0,3.0,16,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7508-Northland-Ave-San-Ramon-CA-94583/18444690_zpid/
+407 Camberly Ct,San Ramon,CA,94583,2289330,4608.0,5.0,5.0,16,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/407-Camberly-Ct-San-Ramon-CA-94583/68041694_zpid/
+100 Reflections Dr APT 23,San Ramon,CA,94583,461000,749.0,2.0,2.0,1698,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/100-Reflections-Dr-APT-23-San-Ramon-CA-94583/72550360_zpid/
+Henley Ct,San Ramon,CA,94583,2160000,4475.0,5.0,5.5,143,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/117251651_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Ashbourne Cir,San Ramon,CA,94583,2250000,5632.0,6.0,6.5,260,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/117252176_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Reflections Dr APT 26,San Ramon,CA,94583,NA,949.0,2.0,2.0,135,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/127026650_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+401 Camberly Ct,San Ramon,CA,94583,1690000,5017.0,5.0,6.0,75,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/401-Camberly-Ct-San-Ramon-CA-94583/68041693_zpid/
+Tareyton Ave,San Ramon,CA,94583,NA,1997.0,4.0,2.5,50,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128915173_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Westvale Ct,San Ramon,CA,94583,NA,2042.0,3.0,3.0,208,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/127121976_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+2875 Morgan Dr,San Ramon,CA,94583,1100000,2437.0,4.0,3.0,589,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/2875-Morgan-Dr-San-Ramon-CA-94583/18442844_zpid/
+Ashbourne Cir,San Ramon,CA,94583,NA,4965.0,5.0,5.5,65,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/128468860_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Sombrero Cir,San Ramon,CA,94583,NA,1972.0,4.0,3.0,47,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128920476_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Chaucer Cir,San Ramon,CA,94583,NA,3367.0,4.0,3.0,134,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/127021858_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Deerwood Dr,San Ramon,CA,94583,NA,2475.0,4.0,3.5,390,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/127117676_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+10 Centennial Way,San Ramon,CA,94583,947000,2087.0,4.0,2.1,859,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/10-Centennial-Way-San-Ramon-CA-94583/54627576_zpid/
+Cuenca Ct,San Ramon,CA,94583,NA,2106.0,4.0,2.5,40,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/129640249_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Alora Ct,San Ramon,CA,94583,NA,1880.0,4.0,3.0,169,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/127261311_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Fountainhead Ct,San Ramon,CA,94583,823000,1731.0,4.0,2.5,442,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/124886055_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Aptos Way,San Ramon,CA,94583,NA,1828.0,4.0,2.5,47,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128920477_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Alcosta Blvd,San Ramon,CA,94583,1700000,3814.0,4.0,3.5,459,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/122089624_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Dexter Pl,San Ramon,CA,94583,901000,2053.0,4.0,2.5,410,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/116810952_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Pine Valley Rd,San Ramon,CA,94583,831000,1544.0,4.0,2.0,514,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/124401601_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Caravan Pl,San Ramon,CA,94583,NA,1993.0,4.0,2.0,222,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/127044824_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Broadmoor Dr,San Ramon,CA,94583,815000,1786.0,4.0,2.0,171,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/119996363_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Morgan Dr,San Ramon,CA,94583,1040000,2291.0,3.0,3.0,341,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/123542688_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+3483 Ashbourne Cir,San Ramon,CA,94583,1750000,4741.0,5.0,6.0,33,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3483-Ashbourne-Cir-San-Ramon-CA-94583/68041683_zpid/
+Ashbourne Cir,San Ramon,CA,94583,NA,4741.0,5.0,5.5,40,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/129642008_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+2451 Dos Rios Dr,San Ramon,CA,94583,799950,1731.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2451-Dos-Rios-Dr-San-Ramon-CA-94583/18441122_zpid/
+68 Fife Ct,San Ramon,CA,94583,1239800,3176.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/68-Fife-Ct-San-Ramon-CA-94583/18449274_zpid/
+300 Sudbury Ct,San Ramon,CA,94583,2099000,5312.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-Sudbury-Ct-San-Ramon-CA-94583/68041691_zpid/
+2836 Stratford Dr,San Ramon,CA,94583,765000,1305.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/2836-Stratford-Dr-San-Ramon-CA-94583/18444430_zpid/
+301 Pine Valley Ct,San Ramon,CA,94583,1149000,3128.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/301-Pine-Valley-Ct-San-Ramon-CA-94583/18446005_zpid/
+160 Reflections Dr APT 14,San Ramon,CA,94583,510000,950.0,2.0,2.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/160-Reflections-Dr-APT-14-San-Ramon-CA-94583/72550112_zpid/
+710 Ryan Ter,San Ramon,CA,94583,756553,1701.0,3.0,3.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/710-Ryan-Ter-San-Ramon-CA-94583/2095105576_zpid/
+532 Ryan Ter,San Ramon,CA,94583,810734,1940.0,3.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/532-Ryan-Ter-San-Ramon-CA-94583/2095295790_zpid/
+3357 Ashbourne Cir,San Ramon,CA,94583,2198000,4673.0,5.0,3.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3357-Ashbourne-Cir-San-Ramon-CA-94583/82799925_zpid/
+9433 Cherry Hills Ln,San Ramon,CA,94583,959950,2040.0,4.0,3.0,54,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9433-Cherry-Hills-Ln-San-Ramon-CA-94583/18444257_zpid/
+911 Maricaibo Pl,San Ramon,CA,94583,1225000,2518.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/911-Maricaibo-Pl-San-Ramon-CA-94583/18441265_zpid/
+110 Wittenham Ct,San Ramon,CA,94583,3299999,4614.0,5.0,5.0,601,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/110-Wittenham-Ct-San-Ramon-CA-94583/95417192_zpid/
+3563 Ashbourne Cir,San Ramon,CA,94583,2100000,5182.0,5.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3563-Ashbourne-Cir-San-Ramon-CA-94583/68034379_zpid/
+2532 Kilpatrick Ct,San Ramon,CA,94583,1400000,2113.0,4.0,3.0,64,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/2532-Kilpatrick-Ct-San-Ramon-CA-94583/18440775_zpid/
+Crested Oak Ct,San Ramon,CA,94583,1400000,3484.0,4.0,4.5,102,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/116978427_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+1088 Hawkshead Cir,San Ramon,CA,94583,2168000,4595.0,4.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1088-Hawkshead-Cir-San-Ramon-CA-94583/72556272_zpid/
+5032 Westside Dr,San Ramon,CA,94583,1930000,4172.0,5.0,4.0,499,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/5032-Westside-Dr-San-Ramon-CA-94583/54628025_zpid/
+2060 Kilkare Rd,Sunol,CA,94586,1499950,2914.0,5.0,3.0,15,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2060-Kilkare-Rd-Sunol-CA-94586/24932369_zpid/
+5100 Sheridan Rd,Sunol,CA,94586,4200000,NA,NA,NA,20,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/5100-Sheridan-Rd-Sunol-CA-94586/116151020_zpid/
+10820 Foothill Rd,Sunol,CA,94586,1400000,1455.0,2.0,2.0,24,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10820-Foothill-Rd-Sunol-CA-94586/24932306_zpid/
+2947 Kilkare Rd,Sunol,CA,94586,399000,834.0,2.0,1.0,84,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2947-Kilkare-Rd-Sunol-CA-94586/24932384_zpid/
+227 Kilkare Rd,Sunol,CA,94586,2450000,4350.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/227-Kilkare-Rd-Sunol-CA-94586/24932269_zpid/
+9925 Foothill Rd,Sunol,CA,94586,1200000,NA,NA,NA,184,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/9925-Foothill-Rd-Sunol-CA-94586/2112216954_zpid/
+0 Mission Rd,Sunol,CA,94586,6000000,NA,NA,NA,650,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0-Mission-Rd-Sunol-CA-94586/2108383456_zpid/
+822 Kilkare Rd,SUNOL,CA,94586,1549950,2374.0,3.0,3.0,31,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/822-Kilkare-Rd-Sunol-CA-94586/24932332_zpid/
+3333 Little Valley Rd LOT C,Sunol,CA,94586,1125000,NA,NA,NA,53,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/3333-Little-Valley-Rd-LOT-C-Sunol-CA-94586/2094827152_zpid/
+0 Parkway,Sunol,CA,94586,299000,NA,NA,NA,227,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0-Parkway-Sunol-CA-94586/2096816855_zpid/
+3333 Little Valley Rd LOT B,Sunol,CA,94586,1500000,NA,NA,NA,53,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/3333-Little-Valley-Rd-LOT-B-Sunol-CA-94586/2094827183_zpid/
+0 B Rd,Sunol,CA,94586,1500000,NA,NA,NA,292,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0-B-Rd-Sunol-CA-94586/2097649214_zpid/
+2212 Grouse Way,Union City,CA,94587,849000,1661.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2212-Grouse-Way-Union-City-CA-94587/24920650_zpid/
+3589 Crawdad Ct,Union City,CA,94587,649950,1098.0,3.0,2.0,50,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3589-Crawdad-Ct-Union-City-CA-94587/24990865_zpid/
+3025 San Andreas Dr,Union City,CA,94587,699900,1556.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3025-San-Andreas-Dr-Union-City-CA-94587/24997873_zpid/
+4348 Remora Dr,Union City,CA,94587,1025000,2298.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4348-Remora-Dr-Union-City-CA-94587/24996539_zpid/
+114 Toyon Ln,Union City,CA,94587,890000,1772.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/114-Toyon-Ln-Union-City-CA-94587/24920887_zpid/
+2529 Trailside Way,Union City,CA,94587,1500000,2521.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2529-Trailside-Way-Union-City-CA-94587/25004213_zpid/
+2721 Cherry Blossom Way,Union City,CA,94587,1230000,3088.0,6.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2721-Cherry-Blossom-Way-Union-City-CA-94587/25004067_zpid/
+31123 Alvarado Niles Rd,Union City,CA,94587,479000,1129.0,2.0,2.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/31123-Alvarado-Niles-Rd-Union-City-CA-94587/2137098078_zpid/
+2533 Copa Del Oro Dr,Union City,CA,94587,409000,908.0,2.0,2.0,8,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2533-Copa-Del-Oro-Dr-Union-City-CA-94587/24994782_zpid/
+3310 San Pablo Ct,Union City,CA,94587,699888,1349.0,3.0,2.0,8,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3310-San-Pablo-Ct-Union-City-CA-94587/25001692_zpid/
+San Pablo Ct,Union City,CA,94587,NA,1349.0,3.0,2.0,50,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/128641147_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+31418 San Jacinto Ct,Union City,CA,94587,779000,1675.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/31418-San-Jacinto-Ct-Union-City-CA-94587/24998312_zpid/
+2898 Pelican Dr,Union City,CA,94587,808900,1544.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2898-Pelican-Dr-Union-City-CA-94587/24994711_zpid/
+32924 Regents Blvd,Union City,CA,94587,1050000,2762.0,0,NA,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/32924-Regents-Blvd-Union-City-CA-94587/25052857_zpid/
+5513 Alvelais Dr,Union City,CA,94587,1299000,3198.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5513-Alvelais-Dr-Union-City-CA-94587/54790391_zpid/
+4394 Planet Cir,Union City,CA,94587,539900,1342.0,4.0,2.0,18,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4394-Planet-Cir-Union-City-CA-94587/24998451_zpid/
+32420 Edith Way,Union City,CA,94587,789000,1463.0,4.0,2.0,18,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/32420-Edith-Way-Union-City-CA-94587/24999680_zpid/
+Niland St,Union City,CA,94587,NA,3367.0,4.0,4.0,22,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/132730110_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Montair Way,Union City,CA,94587,NA,2710.0,4.0,3.0,22,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/132614253_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+3rd St,Union City,CA,94587,NA,1757.0,4.0,2.0,30,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/128652949_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+San Carvante Way,Union City,CA,94587,NA,1762.0,3.0,2.0,26,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/129600232_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Brockway Ct,Union City,CA,94587,NA,1871.0,4.0,2.5,23,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/132614255_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Nickel St,Union City,CA,94587,NA,2472.0,3.0,2.5,26,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/127017209_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+4118 Venus Pl,Union City,CA,94587,499500,1214.0,3.0,2.0,11,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/4118-Venus-Pl-Union-City-CA-94587/25000092_zpid/
+2145 Medallion Dr APT 1,Union City,CA,94587,400000,945.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2145-Medallion-Dr-APT-1-Union-City-CA-94587/24995095_zpid/
+2438 Clover St,Union City,CA,94587,839888,1766.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2438-Clover-St-Union-City-CA-94587/24918450_zpid/
+4472 Madrid Ct,Union City,CA,94587,529900,1155.0,3.0,2.0,17,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/4472-Madrid-Ct-Union-City-CA-94587/24999189_zpid/
+35540 Monterra Ter APT 102,Union City,CA,94587,548000,1023.0,2.0,2.0,25,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/35540-Monterra-Ter-APT-102-Union-City-CA-94587/58877975_zpid/
+33200 11th St,Union City,CA,94587,875000,2688.0,4.0,3.0,16,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/33200-11th-St-Union-City-CA-94587/89033477_zpid/
+5621 Pacific Grove Way,Union City,CA,94587,1035000,2236.0,4.0,3.0,22,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5621-Pacific-Grove-Way-Union-City-CA-94587/24997118_zpid/
+2514 Barclay Ave,Union City,CA,94587,184888,1040.0,2.0,2.0,85,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2514-Barclay-Ave-Union-City-CA-94587/24996178_zpid/
+2627 Parkside Dr,Union City,CA,94587,289995,1400.0,4.0,2.0,88,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/2627-Parkside-Dr-Union-City-CA-94587/2095207180_zpid/
+Apollo Cir,Union City,CA,94587,491000,1583.0,4.0,2.5,372,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/120556486_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+32672 Brenda Way APT 2,Union City,CA,94587,344000,903.0,2.0,1.5,2313,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/32672-Brenda-Way-APT-2-Union-City-CA-94587/24995198_zpid/
+Novato St,Union City,CA,94587,NA,4146.0,8.0,5.0,50,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128932179_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Balmoral St,Union City,CA,94587,628000,1492.0,3.0,2.0,298,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/116845041_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+34877 Rumford Ter,Union City,CA,94587,600000,1492.0,3.0,2.5,3228,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/34877-Rumford-Ter-Union-City-CA-94587/24919323_zpid/
+Bronze St,Union City,CA,94587,1080000,3569.0,5.0,3.5,39,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/117331966_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Jean Dr,Union City,CA,94587,893000,2770.0,5.0,3.0,498,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/116850599_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+30826 Vallejo St,Union City,CA,94587,699950,1336.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/30826-Vallejo-St-Union-City-CA-94587/24997242_zpid/
+2134 Swan Ct APT 1,Union City,CA,94587,331000,810.0,2.0,1.0,3211,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/2134-Swan-Ct-APT-1-Union-City-CA-94587/24919134_zpid/
+511 Tamarack Dr APT 7,Union City,CA,94587,435000,1072.0,2.0,1.5,3222,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/511-Tamarack-Dr-APT-7-Union-City-CA-94587/24920078_zpid/
+Meridien Cir,Union City,CA,94587,NA,2847.0,4.0,3.0,302,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/126883876_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Meridien Cir,Union City,CA,94587,913000,2905.0,5.0,3.0,71,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/116838444_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+240 Famoso Plz,Union City,CA,94587,398369,880.0,2.0,2.0,55,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/240-Famoso-Plz-Union-City-CA-94587/24919827_zpid/
+2145 Medallion Dr APT 2,Union City,CA,94587,423000,1134.0,3.0,1.5,2650,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/2145-Medallion-Dr-APT-2-Union-City-CA-94587/24995096_zpid/
+San Carlos Way,Union City,CA,94587,745000,2120.0,5.0,3.0,106,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/124402003_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Travertine Way,Union City,CA,94587,750000,1551.0,3.0,2.5,365,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/124203751_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+32608 Brenda Way APT 1,Union City,CA,94587,324000,810.0,2.0,1.0,3524,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/32608-Brenda-Way-APT-1-Union-City-CA-94587/24995054_zpid/
+2189 Medallion Dr APT 1,Union City,CA,94587,380000,945.0,2.0,1.0,2663,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/2189-Medallion-Dr-APT-1-Union-City-CA-94587/24995103_zpid/
+2265 Medallion Dr,Union City,CA,94587,319000,810.0,2.0,1.0,2641,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/2265-Medallion-Dr-Union-City-CA-94587/24995150_zpid/
+32625 Brenda Way APT 1,Union City,CA,94587,330000,810.0,2.0,1.0,2717,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/32625-Brenda-Way-APT-1-Union-City-CA-94587/24995170_zpid/
+Rose Way,Union City,CA,94587,880000,2380.0,4.0,2.5,600,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/124464092_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+34800 Starling Dr APT 2,Union City,CA,94587,351000,903.0,2.0,1.0,2756,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/34800-Starling-Dr-APT-2-Union-City-CA-94587/24918387_zpid/
+Sorrento Way,Union City,CA,94587,840000,2258.0,4.0,3.0,341,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/116838440_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Horner St,Union City,CA,94587,542000,1432.0,4.0,2.5,282,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/116846098_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Bel Estos Way,Union City,CA,94587,NA,1155.0,3.0,1.5,323,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/126728580_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Lamprey Dr,Union City,CA,94587,856000,2151.0,5.0,3.0,529,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/116845052_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Tamarack Dr,Union City,CA,94587,765000,2721.0,4.0,3.0,611,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/116826556_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+University Dr,Union City,CA,94587,NA,1557.0,4.0,3.0,82,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128855452_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Lois Way,Union City,CA,94587,651000,1340.0,3.0,2.0,45,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/116846072_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+I St,Union City,CA,94587,NA,985.0,2.0,1.0,151,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128641148_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Viejo Way,Union City,CA,94587,442000,1155.0,3.0,2.5,436,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/125083855_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+4921 Colusa St,Union City,CA,94587,798888,1409.0,4.0,2.0,38,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4921-Colusa-St-Union-City-CA-94587/25053184_zpid/
+3rd St,Union City,CA,94587,521000,858.0,2.0,1.0,58,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/125849226_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Vallejo St,Union City,CA,94587,NA,2744.0,3.0,1.5,52,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128925573_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Regents Blvd,Union City,CA,94587,NA,1274.0,3.0,2.0,80,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128860915_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Cheryl Ct,Union City,CA,94587,713000,1880.0,4.0,2.5,254,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/125775397_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Washington Ave,Union City,CA,94587,NA,1452.0,3.0,2.0,134,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/126897454_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+33735 Railroad Ave,Union City,CA,94587,695000,1800.0,4.0,3.0,38,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/33735-Railroad-Ave-Union-City-CA-94587/58878905_zpid/
+Ruth Way,Union City,CA,94587,NA,1566.0,4.0,2.0,185,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/126897451_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+30699 Chimney Ln,Union City,CA,94587,685000,1412.0,4.0,2.0,50,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/30699-Chimney-Ln-Union-City-CA-94587/24991004_zpid/
+Asimuth Cir,Union City,CA,94587,451000,1390.0,3.0,1.5,306,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/118427086_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+33511 8th St,Union City,CA,94587,500000,1114.0,3.0,2.0,274,Auction,http://www.zillow.com/homes/for_sale//homedetails/33511-8th-St-Union-City-CA-94587/25002585_zpid/
+8th St,Union City,CA,94587,NA,1114.0,3.0,2.0,288,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/126897453_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+4430 Holt St,Union City,CA,94587,787000,1814.0,4.0,2.5,141,Auction,http://www.zillow.com/homes/for_sale//homedetails/4430-Holt-St-Union-City-CA-94587/25054625_zpid/
+Holt St,Union City,CA,94587,780000,1814.0,4.0,2.5,152,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/124414275_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+33051 Arizona St,Union City,CA,94587,785000,1550.0,4.0,2.0,59,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/33051-Arizona-St-Union-City-CA-94587/24995675_zpid/
+4716 Finn Cove Ct,Union City,CA,94587,1075000,2992.0,5.0,3.0,69,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4716-Finn-Cove-Ct-Union-City-CA-94587/24996834_zpid/
+2238 Eric Ct APT 2,Union City,CA,94587,479999,1134.0,3.0,2.0,103,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2238-Eric-Ct-APT-2-Union-City-CA-94587/24995128_zpid/
+3142 San Angelo Way,Union City,CA,94587,800000,1675.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3142-San-Angelo-Way-Union-City-CA-94587/24997591_zpid/
+4404 Alamo St,Union City,CA,94587,499000,1054.0,2.0,2.0,237,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/4404-Alamo-St-Union-City-CA-94587/24999244_zpid/
+3504 Barnacle Ct,Union City,CA,94587,895000,2164.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3504-Barnacle-Ct-Union-City-CA-94587/69229556_zpid/
+1238 H St,Union City,CA,94587,794999,NA,0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1238-H-St-Union-City-CA-94587/25003183_zpid/
+4524 Niland St,Union City,CA,94587,1295000,3160.0,5.0,4.0,73,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/4524-Niland-St-Union-City-CA-94587/79534088_zpid/
+0 Florence Dr,Union City,CA,94587,1600000,NA,NA,NA,42,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0-Florence-Dr-Union-City-CA-94587/2099350233_zpid/
+4120 Asimuth Cir 4120 Asimuth Cir,Union City,CA,94587,456000,1390.0,3.0,1.0,42,Auction,http://www.zillow.com/homes/for_sale//homedetails/4120-Asimuth-Cir-4120-Asimuth-Cir-Union-City-CA-94587/2095914563_zpid/
+182 Granite Ct,Vallejo,CA,94589,339000,1344.0,3.0,2.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/182-Granite-Ct-Vallejo-CA-94589/15692108_zpid/
+464 Corcoran Ave APT 1,Vallejo,CA,94589,145000,1032.0,3.0,2.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/464-Corcoran-Ave-APT-1-Vallejo-CA-94589/15687521_zpid/
+104 Toyon Dr,Vallejo,CA,94589,396900,1609.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/104-Toyon-Dr-Vallejo-CA-94589/15655153_zpid/
+821 Falcon Dr,Vallejo,CA,94589,385000,1256.0,3.0,2.0,3,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/821-Falcon-Dr-Vallejo-CA-94589/15663796_zpid/
+1457 N Camino Alto APT 116,Vallejo,CA,94589,140000,706.0,1.0,1.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1457-N-Camino-Alto-APT-116-Vallejo-CA-94589/15689032_zpid/
+219 Sage St,Vallejo,CA,94589,270000,1272.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/219-Sage-St-Vallejo-CA-94589/15664769_zpid/
+Bw Williams Dr,Vallejo,CA,94589,NA,1025.0,3.0,2.0,8,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/128794058_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Whitecliff Dr,Vallejo,CA,94589,NA,1406.0,3.0,2.0,10,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/127101825_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+101 Rose Ct,Vallejo,CA,94589,349500,1170.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/101-Rose-Ct-Vallejo-CA-94589/15662285_zpid/
+196 Limestone Dr,Vallejo,CA,94589,369500,1529.0,4.0,2.0,7,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/196-Limestone-Dr-Vallejo-CA-94589/15665606_zpid/
+164 Vanessa St,Vallejo,CA,94589,400000,1509.0,3.0,2.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/164-Vanessa-St-Vallejo-CA-94589/15666238_zpid/
+398 Meadows Dr,Vallejo,CA,94589,360000,1391.0,4.0,2.0,10,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/398-Meadows-Dr-Vallejo-CA-94589/15662690_zpid/
+175 Janice St,Vallejo,CA,94589,359900,1605.0,4.0,2.0,8,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/175-Janice-St-Vallejo-CA-94589/15664391_zpid/
+114 Sonora Pass Rd,Vallejo,CA,94589,420000,1523.0,3.0,2.0,10,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/114-Sonora-Pass-Rd-Vallejo-CA-94589/15662030_zpid/
+278 Echo Summit Rd,Vallejo,CA,94589,419500,2171.0,5.0,3.0,4,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/278-Echo-Summit-Rd-Vallejo-CA-94589/15662312_zpid/
+Radcliffe Dr,Vallejo,CA,94589,NA,1440.0,4.0,2.0,19,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/129613709_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+790 Auburn Ct,Vallejo,CA,94589,324900,1684.0,4.0,3.0,29,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/790-Auburn-Ct-Vallejo-CA-94589/15663442_zpid/
+Litchfield Ct,Vallejo,CA,94589,NA,1088.0,3.0,2.0,19,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/129613708_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+N Camino Alto APT 225,Vallejo,CA,94589,NA,640.0,1.0,1.0,11,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/133725305_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+N Camino Alto UNIT 249,Vallejo,CA,94589,NA,980.0,3.0,2.0,26,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/129591728_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+821 Stella St,Vallejo,CA,94589,324000,1440.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/821-Stella-St-Vallejo-CA-94589/15664499_zpid/
+Stella St,Vallejo,CA,94589,NA,1440.0,4.0,2.0,30,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/129583228_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+517 Whitney Ave,Vallejo,CA,94589,305000,1824.0,4.0,3.0,25,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/517-Whitney-Ave-Vallejo-CA-94589/15665579_zpid/
+124 Amherst Ave,Vallejo,CA,94589,349500,1256.0,3.0,2.0,23,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/124-Amherst-Ave-Vallejo-CA-94589/15663954_zpid/
+Mini Dr,Vallejo,CA,94589,350000,1285.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/Mini-Dr-Vallejo-CA-94589/2129044027_zpid/
+155 Daisy Ct,Vallejo,CA,94589,390000,1391.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/155-Daisy-Ct-Vallejo-CA-94589/15662418_zpid/
+525 Whitecliff Dr,Vallejo,CA,94589,450000,2527.0,6.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/525-Whitecliff-Dr-Vallejo-CA-94589/15653715_zpid/
+329 Angelina Way,Vallejo,CA,94589,478000,1856.0,4.0,3.0,21,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/329-Angelina-Way-Vallejo-CA-94589/15665961_zpid/
+0 Fairgrounds Dr,Vallejo,CA,94589,175000,NA,NA,NA,26,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0-Fairgrounds-Dr-Vallejo-CA-94589/2109158316_zpid/
+5174 Sonoma Blvd,Vallejo,CA,94589,372516,NA,NA,NA,29,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/5174-Sonoma-Blvd-Vallejo-CA-94589/2094530140_zpid/
+5172 Sonoma Blvd,Vallejo,CA,94589,530430,NA,NA,NA,29,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/5172-Sonoma-Blvd-Vallejo-CA-94589/2094530221_zpid/
+306 Catalina Way,Vallejo,CA,94589,370000,1698.0,4.0,3.0,1622,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/306-Catalina-Way-Vallejo-CA-94589/15663382_zpid/
+271 Avalon Cir,Vallejo,CA,94589,390000,1986.0,4.0,3.0,1618,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/271-Avalon-Cir-Vallejo-CA-94589/15663645_zpid/
+Columbia Way,Vallejo,CA,94589,313000,1400.0,3.0,2.0,36,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/117903704_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+232 De Anza Dr,Vallejo,CA,94589,348000,2200.0,3.0,2.0,1766,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/232-De-Anza-Dr-Vallejo-CA-94589/15654802_zpid/
+166 Amherst Ave,Vallejo,CA,94589,283000,1225.0,4.0,2.0,2817,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/166-Amherst-Ave-Vallejo-CA-94589/15663961_zpid/
+1821 Mini Dr,Vallejo,CA,94589,251000,908.0,2.0,2.0,32,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/1821-Mini-Dr-Vallejo-CA-94589/15661388_zpid/
+Dartmouth Ave,Vallejo,CA,94589,NA,1698.0,3.0,2.0,40,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/129562079_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Rhea Ct,Vallejo,CA,94589,NA,1825.0,5.0,3.0,46,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/128583104_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Echo Summit Rd,Vallejo,CA,94589,NA,1412.0,2.0,2.0,102,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128805716_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+1455 N Camino Alto APT 123,Vallejo,CA,94589,153000,986.0,2.0,2.0,2297,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/1455-N-Camino-Alto-APT-123-Vallejo-CA-94589/15689038_zpid/
+1735 Mini Dr,Vallejo,CA,94589,311000,1285.0,4.0,2.0,1789,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/1735-Mini-Dr-Vallejo-CA-94589/111930687_zpid/
+153 Dartmouth Ave,Vallejo,CA,94589,326000,1838.0,5.0,2.0,1773,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/153-Dartmouth-Ave-Vallejo-CA-94589/15663859_zpid/
+Whitney Ave,Vallejo,CA,94589,NA,1116.0,3.0,2.0,117,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128647152_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Severus Dr,Vallejo,CA,94589,NA,864.0,2.0,2.0,74,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128864009_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Lakeside Dr,Vallejo,CA,94589,NA,2903.0,5.0,3.0,110,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/127101826_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Kilty Ct,Vallejo,CA,94589,NA,864.0,2.0,2.0,136,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/127101829_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+115 Shari Ct,Vallejo,CA,94589,295000,1232.0,4.0,2.0,1737,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/115-Shari-Ct-Vallejo-CA-94589/15661329_zpid/
+Basalt Dr,Vallejo,CA,94589,342000,1824.0,4.0,2.5,449,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/120095685_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Fairview Ave,Vallejo,CA,94589,NA,812.0,2.0,1.0,103,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128802725_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+De Anza Dr,Vallejo,CA,94589,NA,1155.0,3.0,2.0,162,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/127101827_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Mesa Verde St,Vallejo,CA,94589,NA,1265.0,3.0,2.0,115,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128658404_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+420 Hannigan Way,Vallejo,CA,94589,334000,1516.0,3.0,2.0,1605,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/420-Hannigan-Way-Vallejo-CA-94589/15665717_zpid/
+218 Emily St,Vallejo,CA,94589,351000,1532.0,3.0,2.0,1773,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/218-Emily-St-Vallejo-CA-94589/15665354_zpid/
+165 Oddstad Dr APT 1,Vallejo,CA,94589,NA,1139.0,2.0,2.0,2305,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/165-Oddstad-Dr-APT-1-Vallejo-CA-94589/15689967_zpid/
+Hastings Ave,Vallejo,CA,94589,289000,1104.0,3.0,2.0,339,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/116573559_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Evelyn Cir,Vallejo,CA,94589,314000,1304.0,3.0,2.0,341,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/124401864_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Loyola Way,Vallejo,CA,94589,304000,1285.0,3.0,2.0,197,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/119122387_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Tuolumne St,Vallejo,CA,94589,338000,1552.0,3.0,2.0,311,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/116614056_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+1445 Corcoran Ave,Vallejo,CA,94589,425000,2346.0,4.0,2.0,1594,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/1445-Corcoran-Ave-Vallejo-CA-94589/15665405_zpid/
+1345 Jack London Dr,Vallejo,CA,94589,295000,1232.0,4.0,2.0,1789,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/1345-Jack-London-Dr-Vallejo-CA-94589/15661198_zpid/
+842 Stella St,Vallejo,CA,94589,330000,1604.0,4.0,2.0,1597,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/842-Stella-St-Vallejo-CA-94589/15664506_zpid/
+Redwing St,Vallejo,CA,94589,283000,1104.0,3.0,2.0,438,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/120915665_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Kenyon Way,Vallejo,CA,94589,363000,1703.0,4.0,2.5,465,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/121623903_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Inverness Dr,Vallejo,CA,94589,296000,1696.0,4.0,2.0,571,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/116614024_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Souza Way,Vallejo,CA,94589,NA,1358.0,3.0,2.5,43,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128932032_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+355 Parkview Ter # 5,Vallejo,CA,94589,158000,918.0,2.0,1.0,3034,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/355-Parkview-Ter-5-Vallejo-CA-94589/15691308_zpid/
+143 Smokey Hills Dr,Vallejo,CA,94589,402000,1732.0,4.0,2.0,1635,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/143-Smokey-Hills-Dr-Vallejo-CA-94589/15665699_zpid/
+212 Willow St,Vallejo,CA,94589,288000,1025.0,3.0,2.0,390,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/212-Willow-St-Vallejo-CA-94589/15653398_zpid/
+107 Erin Dr,Vallejo,CA,94589,375000,1532.0,3.0,2.0,1789,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/107-Erin-Dr-Vallejo-CA-94589/15665396_zpid/
+Kenyon Way,Vallejo,CA,94589,335000,1521.0,4.0,2.0,218,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/124826738_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Erin Dr,Vallejo,CA,94589,NA,2410.0,4.0,2.5,197,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/127209106_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Taper Ct,Vallejo,CA,94589,376000,1765.0,4.0,3.0,389,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/125436716_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+283 Dixie Ct,Vallejo,CA,94589,278000,1000.0,3.0,1.0,1597,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/283-Dixie-Ct-Vallejo-CA-94589/15662618_zpid/
+Mini Dr,Vallejo,CA,94589,NA,946.0,3.0,1.0,65,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/128884024_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Pepper Dr,Vallejo,CA,94589,304000,1228.0,3.0,2.0,312,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/123730618_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+Platt Ct,Vallejo,CA,94589,292000,1562.0,3.0,2.0,600,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/119880770_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+440 Corcoran Ave APT 3,Vallejo,CA,94589,128000,880.0,2.0,1.5,3134,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/440-Corcoran-Ave-APT-3-Vallejo-CA-94589/15687472_zpid/
+468 Corcoran Ave APT 1,Vallejo,CA,94589,129000,880.0,2.0,1.5,2580,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/468-Corcoran-Ave-APT-1-Vallejo-CA-94589/15687507_zpid/
+Swan Way,Vallejo,CA,94589,339000,1796.0,3.0,2.5,536,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/116574651_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+366 Sawyer St,Vallejo,CA,94589,329000,1063.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/366-Sawyer-St-Vallejo-CA-94589/15664426_zpid/
+140 Edgehill Ct,Vallejo,CA,94589,425000,1696.0,3.0,2.0,120,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/140-Edgehill-Ct-Vallejo-CA-94589/15654019_zpid/
+241 Howard Ave,Vallejo,CA,94589,349900,1568.0,3.0,2.0,32,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/241-Howard-Ave-Vallejo-CA-94589/15655254_zpid/
+130 Radcliffe Dr,Vallejo,CA,94589,330000,1440.0,4.0,2.0,69,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/130-Radcliffe-Dr-Vallejo-CA-94589/15665191_zpid/
+133 Anderson St,Vallejo,CA,94589,368000,1409.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/133-Anderson-St-Vallejo-CA-94589/15664899_zpid/
+49 Rinaldo Dr,Vallejo,CA,94589,375000,1536.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/49-Rinaldo-Dr-Vallejo-CA-94589/15661526_zpid/
+530 Echo Summit Rd,Vallejo,CA,94589,342500,1088.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/530-Echo-Summit-Rd-Vallejo-CA-94589/15661379_zpid/
+College Ave,Vallejo,CA,94589,310000,1376.0,4.0,2.0,282,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/116573562_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+0 Clark Dr,Vallejo,CA,94589,205000,7405.0,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0-Clark-Dr-Vallejo-CA-94589/2095465876_zpid/
+0 Sonoma Blvd,Vallejo,CA,94589,999888,NA,NA,NA,330,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0-Sonoma-Blvd-Vallejo-CA-94589/2101190020_zpid/
